@@ -8,7 +8,6 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
 ## 🌟 Project Overview
-
 ExoPlanet AI is an innovative web application that harnesses the power of artificial intelligence to analyze NASA's exoplanet datasets and detect new worlds beyond our solar system. Built for the NASA International Space Apps Challenge 2025, our solution combines cutting-edge machine learning with an intuitive, space-themed user interface.
 
 ### 🎯 Challenge
