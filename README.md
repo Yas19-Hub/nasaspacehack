@@ -1,7 +1,6 @@
 # 🚀 ExoPlanet AI - NASA Space Apps Challenge 2025
 
 **Team BrainRot** | *"A World Away: Hunting for Exoplanets with AI"*
-
 [![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-blue)](https://www.spaceappschallenge.org/)
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3.3-000000?logo=flask)](https://flask.palletsprojects.com/)
