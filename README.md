@@ -6,7 +6,6 @@
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3.3-000000?logo=flask)](https://flask.palletsprojects.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-
 ## 🌟 Project Overview
 ExoPlanet AI is an innovative web application that harnesses the power of artificial intelligence to analyze NASA's exoplanet datasets and detect new worlds beyond our solar system. Built for the NASA International Space Apps Challenge 2025, our solution combines cutting-edge machine learning with an intuitive, space-themed user interface.
 
@@ -19,7 +18,6 @@ ExoPlanet AI is an innovative web application that harnesses the power of artifi
 - **Vision:** Make space exploration accessible to researchers worldwide
 
 ## ✨ Features
-
 ### 🎨 Frontend Features
 - **Stunning Landing Page** with ReactBits galaxy background
 - **Interactive Dashboard** with real-time analytics
