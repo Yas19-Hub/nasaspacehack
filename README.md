@@ -14,7 +14,6 @@ ExoPlanet AI is an innovative web application that harnesses the power of artifi
 - **Timeline:** 48-hour hackathon (October 4-5, 2025)
 - **Mission:** Democratize exoplanet discovery through AI-powered analysis
 - **Vision:** Make space exploration accessible to researchers worldwide
-
 ## ✨ Features
 ### 🎨 Frontend Features
 - **Stunning Landing Page** with ReactBits galaxy background
