@@ -10,7 +10,6 @@ ExoPlanet AI is an innovative web application that harnesses the power of artifi
 
 ### 🎯 Challenge
 **"A World Away: Hunting for Exoplanets with AI"** - Create an AI/ML model trained on NASA's open-source exoplanet datasets to analyze new data and accurately identify exoplanets.
-
 ### 🏆 Team BrainRot
 - **Timeline:** 48-hour hackathon (October 4-5, 2025)
 - **Mission:** Democratize exoplanet discovery through AI-powered analysis
